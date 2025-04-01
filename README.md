@@ -16,7 +16,9 @@
 ```bash
  $make
 
+---
 
-## 🚀 컴파일 방법
+## 🚀 실행 방법
+```bash
  sudo ./arp-spoof <interface> <sender_ip_1> <target_ip_1> [<sender_ip_2> <target_ip_2> ...]
 
