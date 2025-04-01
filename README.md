@@ -9,16 +9,15 @@
 - 공격자가 두 대상 사이에서 패킷을 가로채고 중계합니다.
 - 사용자가 `Ctrl+C`로 종료할 때까지 동작합니다.
 
----
 
 ## 🛠️ 컴파일 방법
 
 ```bash
  $make
+```
 
----
-
-## 🚀 실행 방법
+## 🚀 컴파일 방법
 ```bash
  sudo ./arp-spoof <interface> <sender_ip_1> <target_ip_1> [<sender_ip_2> <target_ip_2> ...]
 
+```
